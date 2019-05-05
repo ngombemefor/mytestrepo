@@ -1,2 +1,2 @@
-tail /var/log/secure
+tail /etc/passwd
 
