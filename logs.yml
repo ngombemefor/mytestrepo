@@ -1,1 +1,2 @@
 tail /var/log/messages
+tail /var/log/secure
